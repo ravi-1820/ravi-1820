@@ -22,9 +22,16 @@ I am a Python Developer interested in building scalable web applications and RES
 ### 🚀 Featured Projects
 
 - **BusYatra:** Bus booking and online payment web application.
+   Link :- https://github.com/ravi-1820/BusYatra-Project
+  
 - **HomeFix:** Home services booking platform.
+   Link :- https://github.com/brainybeamGit/HomeFix-Django-P1
+
 - **Eventrix:** Event booking and management application.
+   Link :- https://github.com/brainybeamGit/Eventrix-DjangoRestApi-P1
+
 - **Rudra Message Center :** Message & Wellness services booking system.
+  Link :- https://github.com/ravi-1820/Rudra_massage_Center
 
 ### 📊 GitHub Activity
 
